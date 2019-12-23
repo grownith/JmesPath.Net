@@ -1,3 +1,14 @@
+# grownith
+
+Fork JmesPath.Net for unity3D
+
+Add
+
+```json
+    "com.devlab.jmespath": "https://github.com/grownith/JmesPath.Net/",
+```
+To manifest.json
+
 # JmesPath.Net
 A fully compliant implementation of [JMESPATH](http://jmespath.org/specification.html) for .Net Core.
 
